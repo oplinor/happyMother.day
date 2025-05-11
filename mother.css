@@ -1,0 +1,22 @@
+.button{
+  padding-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  margin-left: 50%;
+  margin-top: 20%;
+  color: aliceblue;
+  background-color: #E59793;
+  border: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+button:hover {
+  color:#E59793;
+  background-color: aliceblue;
+}
+.output{
+  color: #E59793;
+  font-size: 30px;
+  text-align: center;
+}
